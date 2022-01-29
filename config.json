@@ -1,0 +1,81 @@
+{
+  "name": "Aluracord - Matrix",
+  "utilities": {
+    "Supabase": {
+      "Url": "https://jdmbmgvkewxxbmgfzxvv.supabase.co",
+      "AnnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0MzM3OTcwMywiZXhwIjoxOTU4OTU1NzAzfQ.yW4EQytmvvzVCXcktzhKL_wVgS5zIQTO9XJxjDz7pIk"
+    }
+  },
+  "colorsantigas": {
+    "primary": {
+      "050": "#E3F9E5",
+      "100": "#C1EAC5",
+      "200": "#A3D9A5",
+      "300": "#7BC47F",
+      "400": "#57AE5B",
+      "500": "#3F9142",
+      "600": "#2F8132",
+      "700": "#207227",
+      "800": "#0E5814",
+      "900": "#05400A"
+    },
+    "neutrals": {
+      "000": "#FFFFFF",
+      "050": "#F5F7FA",
+      "100": "#E4E7EB",
+      "200": "#CBD2D9",
+      "300": "#9AA5B1",
+      "400": "#52667A",
+      "500": "#313D49",
+      "600": "#29333D",
+      "700": "#212931",
+      "800": "#181F25",
+      "900": "#101418",
+      "999": "#080A0C"
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": {
+        "050": "#FFE2AD",
+        "100": "#FFDB99",
+        "200": "#FFD485",
+        "300": "#FFCD70",
+        "400": "#FFC65C",
+        "500": "#FFBF47",
+        "600": "#FFB833",
+        "700": "#FFB01F",
+        "800": "#FFA90A",
+        "900": "#F59F00"
+      },
+      "neutrals": {
+        "000": "#7C828D",
+        "050": "#727883",
+        "100": "#686E78",
+        "200": "#5F646D",
+        "300": "#555A62",
+        "400": "#4C5057",
+        "500": "#42464C",
+        "600": "#393C41",
+        "700": "#2F3237",
+        "800": "#26282C",
+        "900": "#1C1E21",
+        "999": "#131416"
+      }
+    }
+  },
+  "gif": [
+    "https://media2.giphy.com/media/O1oJ840fg6uOVCqdzJ/giphy.gif",
+    "https://media0.giphy.com/media/jOpLbiGmHR9S0/giphy.gif?cid=790b7611258135e8158be1d8ceae9b52debe118fd31b2bbb&rid=giphy.gif&ct=g",
+    "https://media1.giphy.com/media/tlGD7PDy1w8fK/giphy.gif?cid=ecf05e47y4btsgmr378c4bnhecvdv91bvaouvcqyrocdnbu6&rid=giphy.gif&ct=g",
+    "https://media2.giphy.com/media/ihBQKvIE7gLEA/giphy.gif?cid=ecf05e47qbjt5n94wpwe8ok5qpqkkkn4hiv32makd6zr8sfe&rid=giphy.gif&ct=g",
+    "https://media4.giphy.com/media/s3d5ugcxFDApG/200w.webp?cid=ecf05e47xvi1uj3gv8aeiws5waudypimj62elmi6xfxke7qn&rid=200w.webp&ct=g",
+    "https://media1.giphy.com/media/pwQdvTbFhds3e/200w.webp?cid=ecf05e47xvi1uj3gv8aeiws5waudypimj62elmi6xfxke7qn&rid=200w.webp&ct=g",
+    "https://media1.giphy.com/media/RxLzKqcAEkBRS/200w.webp?cid=ecf05e47xvi1uj3gv8aeiws5waudypimj62elmi6xfxke7qn&rid=200w.webp&ct=g",
+    "https://media1.giphy.com/media/DnLr7nYCVRFvO/200w.webp?cid=ecf05e47xvi1uj3gv8aeiws5waudypimj62elmi6xfxke7qn&rid=200w.webp&ct=g",
+    "https://media3.giphy.com/media/keuNoOuTb1D4A/200w.webp?cid=ecf05e47nthidh44uwcyw8evecvi2fceg90sz4rjouitd7dv&rid=200w.webp&ct=g",
+    "https://media0.giphy.com/media/3qDfYxxBcAeRO/200.webp?cid=ecf05e47nthidh44uwcyw8evecvi2fceg90sz4rjouitd7dv&rid=200.webp&ct=g",
+    "https://media3.giphy.com/media/1ldPQDYHJBoZi/200.webp?cid=ecf05e47nthidh44uwcyw8evecvi2fceg90sz4rjouitd7dv&rid=200.webp&ct=g",
+    "https://media1.giphy.com/media/o1dkPoPDfo8jS/200w.webp?cid=ecf05e47nthidh44uwcyw8evecvi2fceg90sz4rjouitd7dv&rid=200w.webp&ct=g"
+  ]
+}
