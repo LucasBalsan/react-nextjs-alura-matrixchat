@@ -42,8 +42,8 @@ export default function PaginaChat() {
 
   function handleNovaMensagem(novaMensagem) {
     const mensagem = {
-      from: usuarioLogado,
-      text: novaMensagem
+      from: usuarioLogado,      
+      text: novaMensagem      
     }
     supabase
       .from('chat')
@@ -161,8 +161,8 @@ function MessageList(props) {
               <Text
                 styleSheet={{ fontSize: '10px', marginLeft: '8px', color: appConfig.theme.colors.neutrals[300], }}
                 tag='span'
-              >
-                {(new Date().toLocaleDateString())} - {(new Date().toLocaleTimeString())}
+              >               
+               {new Date(mensagem.created_at).toLocaleDateString()} às {(new Date(mensagem.created_at).toLocaleTimeString())}               
               </Text>
             </Box>
             {mensagem.text.startsWith(':gif:') ? (<Image src={mensagem.text.replace(':gif:', '')} />) : (mensagem.text)}
